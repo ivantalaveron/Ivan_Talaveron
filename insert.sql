@@ -7,3 +7,6 @@ VALUES (5, 'ASIR', 'Curso de Administracion Redes', 150);
 
 INSERT INTO aula (nombre, Capacidad, Planta, Descripción)
 VALUES ('aso',50, 1, 'buen estado';
+
+INSERT INTO edificio (nombre, Descripción)
+VALUES ('Informatica', 'perfecto';
